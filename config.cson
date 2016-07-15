@@ -1,0 +1,26 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "e6ee7658-2958-f45f-0631-52495312b45f"
+  "seti-ui":
+    compactView: true
+    disableAnimations: true
+  "sync-settings":
+    _analyticsUserId: "5d4073e5-d4f8-4e06-85fa-a50eb7df33b1"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
